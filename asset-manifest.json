@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2222f490.css",
+    "main.css": "/static/css/main.f525624a.css",
     "main.js": "/static/js/main.f0a51f50.js",
     "static/media/OSWALD-REGULAR.TTF": "/static/media/OSWALD-REGULAR.78dbb14f9e4bc321815c.TTF",
     "index.html": "/index.html",
-    "main.2222f490.css.map": "/static/css/main.2222f490.css.map",
+    "main.f525624a.css.map": "/static/css/main.f525624a.css.map",
     "main.f0a51f50.js.map": "/static/js/main.f0a51f50.js.map"
   },
   "entrypoints": [
-    "static/css/main.2222f490.css",
+    "static/css/main.f525624a.css",
     "static/js/main.f0a51f50.js"
   ]
 }
