@@ -1,0 +1,20 @@
+*Versão em PT e EN?
+
+CABEÇALHO:
+título("power invoice generator")
+
+
+NÚMERO
+DATA EMISSÃO
+
+
+INFO CLIENTE
+ENDEREÇO ENTREGA(OPCIONAL)
+
+
+TABELA
+
+
+FOOTER:
+PAGAR ATÉ(DUE DATE)
+ASSINATURA

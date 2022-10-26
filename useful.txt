@@ -1,0 +1,48 @@
+em x rem:
+https://www.digitalocean.com/community/tutorials/css-rem-vs-em-units
+
+CSS counter intuitive properties:
+- background-attachment: fixed
+    stretches the background color to fit the whole viewport
+
+flexbox most used props so far:
+    display: flex
+    flex-direction: column/row
+    justify-content: center...
+
+input tags:
+<input>
+<label>
+<select>
+<textarea>
+<button>
+<fieldset>
+<legend>
+<datalist>
+<output>
+<option>
+<optgroup>
+
+input types:
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">

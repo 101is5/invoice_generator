@@ -1,0 +1,13 @@
+.details {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0px;
+}
+
+.details label {
+    padding: 0px 5px 0px 0px;
+}
+
+.details input {
+    margin: 0px 5px 0px 0px; 
+}

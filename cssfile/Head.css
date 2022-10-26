@@ -1,0 +1,17 @@
+input,textarea {
+    font-family: Roboto;
+    /*apparently tags that have default text(like <input>) need 
+    need to be directly altered. changing the font of the parent
+    component doesn't affect them.*/
+}
+
+/* .companyInfo {
+    height: 100px;
+    width: 300px;
+}
+
+.companyInfo::placeholder {
+    position: relative;
+    top: 0;
+    left: 0;
+} */
