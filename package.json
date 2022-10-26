@@ -1,7 +1,7 @@
 {
   "name": "invoice-gen",
   "version": "0.1.0",
-  "homepage": "https://101is5.github.io/",
+  "homepage": "https://101is5.github.io/invoice_generator/",
   "private": true,
   "dependencies": {
     "@react-pdf/render": "^3.2.1",
