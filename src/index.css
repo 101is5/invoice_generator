@@ -7,5 +7,5 @@ body {
     font-family: "Oswald";
     src: local("Oswald"),
       url("./fonts/OSWALD-REGULAR.TTF") format("truetype");
-    /* font-weight: normal; */
+    font-weight: normal;
   }
