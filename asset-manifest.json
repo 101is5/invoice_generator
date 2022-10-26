@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/invoice_generator/static/css/main.0e8a9fee.css",
-    "main.js": "/invoice_generator/static/js/main.f0a51f50.js",
-    "index.html": "/invoice_generator/index.html",
-    "main.0e8a9fee.css.map": "/invoice_generator/static/css/main.0e8a9fee.css.map",
-    "main.f0a51f50.js.map": "/invoice_generator/static/js/main.f0a51f50.js.map"
+    "main.css": "/static/css/main.2222f490.css",
+    "main.js": "/static/js/main.f0a51f50.js",
+    "static/media/OSWALD-REGULAR.TTF": "/static/media/OSWALD-REGULAR.78dbb14f9e4bc321815c.TTF",
+    "index.html": "/index.html",
+    "main.2222f490.css.map": "/static/css/main.2222f490.css.map",
+    "main.f0a51f50.js.map": "/static/js/main.f0a51f50.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e8a9fee.css",
+    "static/css/main.2222f490.css",
     "static/js/main.f0a51f50.js"
   ]
 }
